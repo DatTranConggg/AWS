@@ -86,6 +86,23 @@
 
 # EC2
 
+![Alt text](image-39.png)
+
+![Alt text](image-40.png)
+
+![Alt text](image-41.png)
+
+![Alt text](image-42.png)
+
+![Alt text](image-43.png)
+
+![Alt text](image-44.png)
+
+![Alt text](image-45.png)
+
+
+
+
 # DB on AWS
 
 # Route 53
